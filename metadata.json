@@ -1,0 +1,6 @@
+{
+  "name": "INR EXCHANGE",
+  "description": "Premium financial dashboard and exchange platform in Indian Rupees (₹) with real-time quotes, wallet, team, bonus rewards, and VIP membership.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

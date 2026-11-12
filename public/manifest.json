@@ -1,0 +1,25 @@
+{
+  "name": "INR EXCHANGE - Fixed 6% Daily Compounding Platform",
+  "short_name": "INR EXCHANGE",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090C16",
+  "theme_color": "#090C16",
+  "orientation": "portrait",
+  "scope": "/",
+  "description": "India's Premier Fixed 6% 60-Second Trading Platform with Instant QR Code Recharges, 20% Withdrawal Settlements, and Complete Admin Controls.",
+  "icons": [
+    {
+      "src": "/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

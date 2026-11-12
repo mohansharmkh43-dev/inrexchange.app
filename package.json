@@ -1,0 +1,10 @@
+{
+  "name": "inr-exchange",
+  "version": "1.0.0",
+  "description": "INR Exchange Web and PWA Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  }
+}
